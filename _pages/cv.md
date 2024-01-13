@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Southwest University （西南大学）, Chongqing（重庆）, China, 2021
+* B.S. in Economics, University of Western Australia, Perth, Australia, 2021
+* M.S. in Applied Econometrics, Monash University, Melbourne, Australia, 2022
+* Grad.Dip. in Mathematics, University of Queensland, Brisbane, Australia, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022: Research Assistant
+  * Hunan University (湖南大学)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022: Research Project
+  * Monash University
+  * Thesis Title: The Effect of U.S. Deregulation on the Return to Scale of Commercial Banks
+  * Supervisor: Bin Peng
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
+  * Stata
+  * Latex
+
 
 Publications
 ======
