@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziyang Wang 王梓瑒"
-  avatar           : "(../images/Me.JPG)"
+  avatar           : "(../images/Me2.png)"
   bio              : "Master of Applied Econometrics"
   location         : "China/Australia"
   employer         : "Monash University (Australia)"
@@ -89,7 +89,7 @@ author:
   googlescholar    : 
   email            :
   researchgate     :  
-  uri              :
+  uri              : "https://sites.google.com/view/ziyang-wang"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "(https://ziyangwang2.github.io)"
-  google_plus      : "https://sites.google.com/view/ziyang-wang"
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : 
