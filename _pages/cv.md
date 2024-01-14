@@ -24,7 +24,7 @@ Work experience
 * 2022: Research Project
   * Monash University
   * Thesis Title: The Effect of U.S. Deregulation on the Return to Scale of Commercial Banks
-  * Supervisor: Bin Peng
+  * Supervisor: Associate Professor Bin Peng
   
 Skills
 ======
